@@ -1,4 +1,10 @@
 # Tensorflow-SegNet
+
+这份代码的原始网址是：https://github.com/tkuanlun350/Tensorflow-SegNet
+2017.12.16，这份代码，王守一已经跑出来的，但现在还没有搞明白输入
+
+
+
 Implement slightly different (see below for detail) [SegNet](http://arxiv.org/abs/1511.00561) in tensorflow,
 successfully trained segnet-basic in CamVid dataset.
 
